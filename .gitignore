@@ -1,0 +1,13 @@
+/node_modules
+/public/storage
+/public/hot
+/public/libs
+/storage/*.key
+/vendor
+/.idea
+.htaccess
+.env
+composer.lock
+Homestead.json
+Homestead.yaml
+composer.phar

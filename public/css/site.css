@@ -1,0 +1,51 @@
+.panel-default > .panel-heading {
+    background-color: #f5f5f5;!important;
+}
+
+.panel-default > .panel-heading > .coin-label {
+    margin-left: 10px;
+}
+
+.panel-default > .panel-heading > .laravel-rating {
+    padding-top: 9px;
+}
+
+.panel-default > .panel-body {
+    position: relative;
+}
+
+.panel-default > .panel-body > .laravel-info {
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.laravel-info > table > tbody > tr > td > i.fa-caret-up {
+    color: green;
+}
+
+.laravel-info > table > tbody > tr > td > i.fa-caret-down {
+    color: red;
+}
+
+html {
+    font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.table {
+    border: none;
+}
+
+.table-definition thead th:first-child {
+    pointer-events: none;
+    background: white;
+    border: none;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.page-item > * {
+    border: none;
+}

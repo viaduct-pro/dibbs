@@ -1,0 +1,1 @@
+<img src="/images/small{{$file->path . $file->name}}" class="file-preview-image" title="{{$file->meta_title}}">
